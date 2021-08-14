@@ -1,1 +1,1 @@
-# Stock-Price-Prediction--EDA
+# Stock-Price-Prediction of large cap companies (Apple)
